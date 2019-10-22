@@ -1,0 +1,25 @@
+body{
+font-family: sans-serif;
+
+}
+#demo{
+    /* border:10px double;
+background: lightblue;
+background-clip: border-box;
+background-clip: padding-box;
+background-clip: content-box; */
+
+background-image: url("./lll.jpg" );
+background-size: cover;
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-size: 40%;
+background-position-x: right;
+
+}
+p{
+    margin-right: 200px;
+}
+
+
+
